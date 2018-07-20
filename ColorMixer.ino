@@ -1,6 +1,6 @@
 //Build one of the circuits below (depending on which type of RGB LED you have), and write a program that changes the LED to various colors, such as orange, violet, cyan, yellow, etc.
 // USE COMMON CATHODE OR COMMON ANODE RGB LED
-// link to circuit
+// link to simulator
 //https://www.tinkercad.com/things/eQ44SPt1SFt-tremendous-leelo/editel?tenant=circuits
 
 // Pins
