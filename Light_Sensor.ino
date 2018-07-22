@@ -1,5 +1,7 @@
 
 // Light Sensor with arduino
+// link to simulator
+// https://www.tinkercad.com/things/8bRqG58GxDo-epic-snaget-wolt/editel?tenant=circuits
 
 const int light_pin = A0;
 
