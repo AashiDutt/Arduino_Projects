@@ -1,6 +1,9 @@
-# Arduino_Projects_Codes
+# Arduino Projects
 
-# This repository contains Arduino project codes coded in Arduino IDLE.
-## PREREQUISITES:
-1. Arduino IDLE
-2. Arduino Board(arduino UNO works fine)
+***This repository contains the code for my exploration of Arduino using external sensors.***
+
+# Requirements
+
+**1. Arduino IDE**
+
+**2. Arduino Board [UNO/DUE etc.]**
