@@ -1,3 +1,8 @@
+// CODE TO LIGHT LED AND USAGE OF EXTERNAL PULL UP RESISTOR
+// LINK TO SIMULATOR
+// https://www.tinkercad.com/things/8Y2b6yyEed9-externalpullupresistor/editel
+
+
 const int btn_pin = 2;
 const int led_pin = 6;
 
