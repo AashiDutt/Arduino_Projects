@@ -1,6 +1,6 @@
 // Code to Debounce signal and avoid automatic bouncing
 // link to simulator
-// 
+// https://www.tinkercad.com/things/d7pgjOaPr6u-debouncingcounter/editel
 
 const int btn_pin = 2;
 const int debounce_delay =50; // ms
